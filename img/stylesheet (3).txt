@@ -1,0 +1,119 @@
+spr.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow {
+    width: 77px;
+    height: 25px;
+    background-position: -20px -20px;
+}
+
+.sprite-hexagoncyan {
+    width: 60px;
+    height: 69px;
+    background-position: -20px -85px;
+}
+
+.sprite-icon1 {
+    width: 35px;
+    height: 45px;
+    background-position: -20px -194px;
+}
+
+.sprite-icon2 {
+    width: 42px;
+    height: 52px;
+    background-position: -20px -279px;
+}
+
+.sprite-icon2-1 {
+    width: 97px;
+    height: 84px;
+    background-position: -20px -371px;
+}
+
+.sprite-icon2-2 {
+    width: 97px;
+    height: 84px;
+    background-position: -20px -495px;
+}
+
+.sprite-icon2-3 {
+    width: 97px;
+    height: 84px;
+    background-position: -20px -619px;
+}
+
+.sprite-icon2-4 {
+    width: 97px;
+    height: 84px;
+    background-position: -20px -743px;
+}
+
+.sprite-icon2-5 {
+    width: 97px;
+    height: 84px;
+    background-position: -20px -867px;
+}
+
+.sprite-icon2-6 {
+    width: 98px;
+    height: 84px;
+    background-position: -20px -991px;
+}
+
+.sprite-icon3 {
+    width: 44px;
+    height: 29px;
+    background-position: -20px -1115px;
+}
+
+.sprite-icon4 {
+    width: 26px;
+    height: 40px;
+    background-position: -20px -1184px;
+}
+
+.sprite-icon8-1 {
+    width: 133px;
+    height: 159px;
+    background-position: -20px -1264px;
+}
+
+.sprite-icon8-2 {
+    width: 133px;
+    height: 159px;
+    background-position: -20px -1463px;
+}
+
+.sprite-icon8-3 {
+    width: 133px;
+    height: 159px;
+    background-position: -20px -1662px;
+}
+
+.sprite-naturalicon1 {
+    width: 77px;
+    height: 76px;
+    background-position: -20px -1861px;
+}
+
+.sprite-naturalicon2 {
+    width: 72px;
+    height: 72px;
+    background-position: -20px -1977px;
+}
+
+.sprite-naturalicon3 {
+    width: 76px;
+    height: 76px;
+    background-position: -20px -2089px;
+}
+
+.sprite-selectarrow {
+    width: 22px;
+    height: 20px;
+    background-position: -20px -2205px;
+}
